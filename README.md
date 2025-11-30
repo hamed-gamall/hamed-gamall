@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamed Gamal</h1>
-<h3 align="center">Data Scientist Intern | Data Analyst | Machine Learning</h3>
+<h3 align="center">Data Scientist | Data Analyst | Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamed-gamall&label=Profile%20views&color=0e75b6&style=flat" alt="hamed-gamall" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science & Ai & ML**
 
-- 👯 I’m looking to collaborate on **large and open-source projects.**
+- 👯 I’m looking to collaborate on **high-impact data science and machine learning projects that solve real-world problems.**
 
 - 📫 How to reach me **hamd.gamall@gmail.com**
 
